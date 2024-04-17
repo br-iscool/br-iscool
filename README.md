@@ -2,6 +2,6 @@
 
 - 👀 I’m interested in software development, pentesting, cyber security, and obfuscation.
   
-- 🌱 I'm learning JS, Java, and Python.
+- 🌱 Python, Java, node.js
   
 - 📫 Discord: br.iscool
