@@ -3,7 +3,7 @@
 </h2>
 
 <p align = "center">
-  software dev, web dev, pentesting, cyber security, and obfuscation.
+  software dev, web dev, data science
 </p>
 
 <div align = "center">
